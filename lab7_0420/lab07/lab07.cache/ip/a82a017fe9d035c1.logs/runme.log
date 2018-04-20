@@ -1,0 +1,166 @@
+
+*** Running vivado
+    with args -log design_1_xbar_0.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source design_1_xbar_0.tcl
+
+awk: symbol lookup error: awk: undefined symbol: mpfr_z_sub
+
+****** Vivado v2016.4 (64-bit)
+  **** SW Build 1756540 on Mon Jan 23 19:11:19 MST 2017
+  **** IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+    ** Copyright 1986-2016 Xilinx, Inc. All Rights Reserved.
+
+source design_1_xbar_0.tcl -notrace
+awk: symbol lookup error: awk: undefined symbol: mpfr_z_sub
+Starting RTL Elaboration : Time (s): cpu = 00:00:07 ; elapsed = 00:00:07 . Memory (MB): peak = 1098.352 ; gain = 165.086 ; free physical = 2094 ; free virtual = 12599
+INFO: [Synth 8-638] synthesizing module 'design_1_xbar_0' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ip/design_1_xbar_0/synth/design_1_xbar_0.v:59]
+INFO: [Synth 8-638] synthesizing module 'axi_crossbar_v2_1_12_axi_crossbar' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/896d/hdl/axi_crossbar_v2_1_vl_rfs.v:4882]
+INFO: [Synth 8-638] synthesizing module 'axi_crossbar_v2_1_12_crossbar' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/896d/hdl/axi_crossbar_v2_1_vl_rfs.v:2239]
+INFO: [Synth 8-638] synthesizing module 'axi_crossbar_v2_1_12_si_transactor' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/896d/hdl/axi_crossbar_v2_1_vl_rfs.v:3798]
+INFO: [Synth 8-638] synthesizing module 'axi_crossbar_v2_1_12_addr_decoder' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/896d/hdl/axi_crossbar_v2_1_vl_rfs.v:794]
+INFO: [Synth 8-638] synthesizing module 'generic_baseblocks_v2_1_0_comparator_static' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/7ee0/hdl/generic_baseblocks_v2_1_vl_rfs.v:2133]
+INFO: [Synth 8-638] synthesizing module 'generic_baseblocks_v2_1_0_carry_and' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/7ee0/hdl/generic_baseblocks_v2_1_vl_rfs.v:62]
+INFO: [Synth 8-256] done synthesizing module 'generic_baseblocks_v2_1_0_carry_and' (1#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/7ee0/hdl/generic_baseblocks_v2_1_vl_rfs.v:62]
+INFO: [Synth 8-256] done synthesizing module 'generic_baseblocks_v2_1_0_comparator_static' (2#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/7ee0/hdl/generic_baseblocks_v2_1_vl_rfs.v:2133]
+INFO: [Synth 8-638] synthesizing module 'generic_baseblocks_v2_1_0_comparator_static__parameterized0' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/7ee0/hdl/generic_baseblocks_v2_1_vl_rfs.v:2133]
+INFO: [Synth 8-256] done synthesizing module 'generic_baseblocks_v2_1_0_comparator_static__parameterized0' (2#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/7ee0/hdl/generic_baseblocks_v2_1_vl_rfs.v:2133]
+INFO: [Synth 8-256] done synthesizing module 'axi_crossbar_v2_1_12_addr_decoder' (3#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/896d/hdl/axi_crossbar_v2_1_vl_rfs.v:794]
+INFO: [Synth 8-638] synthesizing module 'axi_data_fifo_v2_1_10_axic_srl_fifo' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:698]
+INFO: [Synth 8-638] synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-638] synthesizing module 'SRLC32E' [/opt/Xilinx/Vivado/2016.4/scripts/rt/data/unisim_comp.v:43478]
+INFO: [Synth 8-256] done synthesizing module 'SRLC32E' (4#1) [/opt/Xilinx/Vivado/2016.4/scripts/rt/data/unisim_comp.v:43478]
+INFO: [Synth 8-256] done synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl' (5#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-256] done synthesizing module 'axi_data_fifo_v2_1_10_axic_srl_fifo' (6#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:698]
+INFO: [Synth 8-638] synthesizing module 'axi_crossbar_v2_1_12_arbiter_resp' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/896d/hdl/axi_crossbar_v2_1_vl_rfs.v:1025]
+INFO: [Synth 8-256] done synthesizing module 'axi_crossbar_v2_1_12_arbiter_resp' (7#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/896d/hdl/axi_crossbar_v2_1_vl_rfs.v:1025]
+INFO: [Synth 8-638] synthesizing module 'generic_baseblocks_v2_1_0_mux_enc' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/7ee0/hdl/generic_baseblocks_v2_1_vl_rfs.v:2452]
+INFO: [Synth 8-256] done synthesizing module 'generic_baseblocks_v2_1_0_mux_enc' (8#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/7ee0/hdl/generic_baseblocks_v2_1_vl_rfs.v:2452]
+INFO: [Synth 8-256] done synthesizing module 'axi_crossbar_v2_1_12_si_transactor' (9#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/896d/hdl/axi_crossbar_v2_1_vl_rfs.v:3798]
+INFO: [Synth 8-638] synthesizing module 'axi_crossbar_v2_1_12_si_transactor__parameterized0' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/896d/hdl/axi_crossbar_v2_1_vl_rfs.v:3798]
+INFO: [Synth 8-638] synthesizing module 'generic_baseblocks_v2_1_0_mux_enc__parameterized0' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/7ee0/hdl/generic_baseblocks_v2_1_vl_rfs.v:2452]
+INFO: [Synth 8-256] done synthesizing module 'generic_baseblocks_v2_1_0_mux_enc__parameterized0' (9#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/7ee0/hdl/generic_baseblocks_v2_1_vl_rfs.v:2452]
+INFO: [Synth 8-256] done synthesizing module 'axi_crossbar_v2_1_12_si_transactor__parameterized0' (9#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/896d/hdl/axi_crossbar_v2_1_vl_rfs.v:3798]
+INFO: [Synth 8-638] synthesizing module 'axi_crossbar_v2_1_12_splitter' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/896d/hdl/axi_crossbar_v2_1_vl_rfs.v:4459]
+INFO: [Synth 8-256] done synthesizing module 'axi_crossbar_v2_1_12_splitter' (10#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/896d/hdl/axi_crossbar_v2_1_vl_rfs.v:4459]
+INFO: [Synth 8-638] synthesizing module 'axi_crossbar_v2_1_12_wdata_router' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/896d/hdl/axi_crossbar_v2_1_vl_rfs.v:4734]
+INFO: [Synth 8-638] synthesizing module 'axi_data_fifo_v2_1_10_axic_reg_srl_fifo' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:889]
+INFO: [Synth 8-638] synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized0' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-256] done synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized0' (10#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-638] synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized1' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-256] done synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized1' (10#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-256] done synthesizing module 'axi_data_fifo_v2_1_10_axic_reg_srl_fifo' (11#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:889]
+INFO: [Synth 8-256] done synthesizing module 'axi_crossbar_v2_1_12_wdata_router' (12#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/896d/hdl/axi_crossbar_v2_1_vl_rfs.v:4734]
+INFO: [Synth 8-638] synthesizing module 'axi_data_fifo_v2_1_10_axic_srl_fifo__parameterized0' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:698]
+INFO: [Synth 8-638] synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized2' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-256] done synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized2' (12#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-638] synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized3' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-256] done synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized3' (12#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-638] synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized4' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-256] done synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized4' (12#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-638] synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized5' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-256] done synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized5' (12#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-638] synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized6' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-256] done synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized6' (12#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-638] synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized7' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-256] done synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized7' (12#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-638] synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized8' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-256] done synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized8' (12#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-638] synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized9' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-256] done synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized9' (12#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-256] done synthesizing module 'axi_data_fifo_v2_1_10_axic_srl_fifo__parameterized0' (12#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:698]
+INFO: [Synth 8-638] synthesizing module 'axi_crossbar_v2_1_12_wdata_mux' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/896d/hdl/axi_crossbar_v2_1_vl_rfs.v:4559]
+INFO: [Synth 8-256] done synthesizing module 'axi_crossbar_v2_1_12_wdata_mux' (13#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/896d/hdl/axi_crossbar_v2_1_vl_rfs.v:4559]
+INFO: [Synth 8-638] synthesizing module 'axi_register_slice_v2_1_11_axi_register_slice' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/0b6b/hdl/axi_register_slice_v2_1_vl_rfs.v:791]
+INFO: [Synth 8-638] synthesizing module 'axi_infrastructure_v1_1_0_axi2vector' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/7e3a/hdl/axi_infrastructure_v1_1_vl_rfs.v:60]
+INFO: [Synth 8-256] done synthesizing module 'axi_infrastructure_v1_1_0_axi2vector' (14#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/7e3a/hdl/axi_infrastructure_v1_1_vl_rfs.v:60]
+INFO: [Synth 8-638] synthesizing module 'axi_register_slice_v2_1_11_axic_register_slice' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/0b6b/hdl/axi_register_slice_v2_1_vl_rfs.v:85]
+INFO: [Synth 8-256] done synthesizing module 'axi_register_slice_v2_1_11_axic_register_slice' (15#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/0b6b/hdl/axi_register_slice_v2_1_vl_rfs.v:85]
+INFO: [Synth 8-638] synthesizing module 'axi_register_slice_v2_1_11_axic_register_slice__parameterized0' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/0b6b/hdl/axi_register_slice_v2_1_vl_rfs.v:85]
+INFO: [Synth 8-256] done synthesizing module 'axi_register_slice_v2_1_11_axic_register_slice__parameterized0' (15#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/0b6b/hdl/axi_register_slice_v2_1_vl_rfs.v:85]
+INFO: [Synth 8-638] synthesizing module 'axi_register_slice_v2_1_11_axic_register_slice__parameterized1' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/0b6b/hdl/axi_register_slice_v2_1_vl_rfs.v:85]
+INFO: [Synth 8-256] done synthesizing module 'axi_register_slice_v2_1_11_axic_register_slice__parameterized1' (15#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/0b6b/hdl/axi_register_slice_v2_1_vl_rfs.v:85]
+INFO: [Synth 8-638] synthesizing module 'axi_register_slice_v2_1_11_axic_register_slice__parameterized2' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/0b6b/hdl/axi_register_slice_v2_1_vl_rfs.v:85]
+INFO: [Synth 8-256] done synthesizing module 'axi_register_slice_v2_1_11_axic_register_slice__parameterized2' (15#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/0b6b/hdl/axi_register_slice_v2_1_vl_rfs.v:85]
+INFO: [Synth 8-638] synthesizing module 'axi_infrastructure_v1_1_0_vector2axi' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/7e3a/hdl/axi_infrastructure_v1_1_vl_rfs.v:474]
+INFO: [Synth 8-256] done synthesizing module 'axi_infrastructure_v1_1_0_vector2axi' (16#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/7e3a/hdl/axi_infrastructure_v1_1_vl_rfs.v:474]
+INFO: [Synth 8-256] done synthesizing module 'axi_register_slice_v2_1_11_axi_register_slice' (17#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/0b6b/hdl/axi_register_slice_v2_1_vl_rfs.v:791]
+INFO: [Synth 8-638] synthesizing module 'axi_data_fifo_v2_1_10_axic_srl_fifo__parameterized1' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:698]
+INFO: [Synth 8-638] synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized10' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-256] done synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized10' (17#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-638] synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized11' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-256] done synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized11' (17#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-638] synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized12' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-256] done synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized12' (17#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-638] synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized13' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-256] done synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized13' (17#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-638] synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized14' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-256] done synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized14' (17#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-638] synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized15' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-256] done synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized15' (17#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-638] synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized16' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-256] done synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized16' (17#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-638] synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized17' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-256] done synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized17' (17#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-256] done synthesizing module 'axi_data_fifo_v2_1_10_axic_srl_fifo__parameterized1' (17#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:698]
+INFO: [Synth 8-638] synthesizing module 'axi_data_fifo_v2_1_10_axic_srl_fifo__parameterized2' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:698]
+INFO: [Synth 8-638] synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized18' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-256] done synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized18' (17#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-638] synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized19' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-256] done synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized19' (17#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-638] synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized20' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-256] done synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized20' (17#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-638] synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized21' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-256] done synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized21' (17#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-638] synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized22' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-256] done synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized22' (17#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-638] synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized23' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-256] done synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized23' (17#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-638] synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized24' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-256] done synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized24' (17#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-638] synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized25' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-256] done synthesizing module 'axi_data_fifo_v2_1_10_ndeep_srl__parameterized25' (17#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:1134]
+INFO: [Synth 8-256] done synthesizing module 'axi_data_fifo_v2_1_10_axic_srl_fifo__parameterized2' (17#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/39ba/hdl/axi_data_fifo_v2_1_vl_rfs.v:698]
+INFO: [Synth 8-638] synthesizing module 'axi_crossbar_v2_1_12_wdata_mux__parameterized0' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/896d/hdl/axi_crossbar_v2_1_vl_rfs.v:4559]
+INFO: [Synth 8-256] done synthesizing module 'axi_crossbar_v2_1_12_wdata_mux__parameterized0' (17#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/896d/hdl/axi_crossbar_v2_1_vl_rfs.v:4559]
+INFO: [Synth 8-638] synthesizing module 'axi_crossbar_v2_1_12_decerr_slave' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/896d/hdl/axi_crossbar_v2_1_vl_rfs.v:3500]
+INFO: [Synth 8-256] done synthesizing module 'axi_crossbar_v2_1_12_decerr_slave' (18#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/896d/hdl/axi_crossbar_v2_1_vl_rfs.v:3500]
+INFO: [Synth 8-638] synthesizing module 'axi_crossbar_v2_1_12_addr_arbiter' [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/896d/hdl/axi_crossbar_v2_1_vl_rfs.v:423]
+INFO: [Synth 8-256] done synthesizing module 'axi_crossbar_v2_1_12_addr_arbiter' (19#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/896d/hdl/axi_crossbar_v2_1_vl_rfs.v:423]
+INFO: [Synth 8-256] done synthesizing module 'axi_crossbar_v2_1_12_crossbar' (20#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/896d/hdl/axi_crossbar_v2_1_vl_rfs.v:2239]
+INFO: [Synth 8-256] done synthesizing module 'axi_crossbar_v2_1_12_axi_crossbar' (21#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ipshared/896d/hdl/axi_crossbar_v2_1_vl_rfs.v:4882]
+INFO: [Synth 8-256] done synthesizing module 'design_1_xbar_0' (22#1) [/csehome/sdu6342/hsd/lab7_0420/lab07/lab07.srcs/sources_1/bd/design_1/ip/design_1_xbar_0/synth/design_1_xbar_0.v:59]
+Finished RTL Elaboration : Time (s): cpu = 00:00:10 ; elapsed = 00:00:10 . Memory (MB): peak = 1231.820 ; gain = 298.555 ; free physical = 1957 ; free virtual = 12462
+Finished RTL Optimization Phase 1 : Time (s): cpu = 00:00:10 ; elapsed = 00:00:10 . Memory (MB): peak = 1231.820 ; gain = 298.555 ; free physical = 1955 ; free virtual = 12461
+INFO: [Device 21-403] Loading part xc7z020clg484-1
+Constraint Validation Runtime : Time (s): cpu = 00:00:00.15 ; elapsed = 00:00:00.10 . Memory (MB): peak = 1544.656 ; gain = 2.000 ; free physical = 1753 ; free virtual = 12260
+Finished Constraint Validation : Time (s): cpu = 00:00:18 ; elapsed = 00:00:18 . Memory (MB): peak = 1544.656 ; gain = 611.391 ; free physical = 2365 ; free virtual = 12873
+Finished Loading Part and Timing Information : Time (s): cpu = 00:00:18 ; elapsed = 00:00:18 . Memory (MB): peak = 1544.656 ; gain = 611.391 ; free physical = 2365 ; free virtual = 12873
+Finished applying 'set_property' XDC Constraints : Time (s): cpu = 00:00:18 ; elapsed = 00:00:18 . Memory (MB): peak = 1544.656 ; gain = 611.391 ; free physical = 2365 ; free virtual = 12873
+Finished RTL Optimization Phase 2 : Time (s): cpu = 00:00:19 ; elapsed = 00:00:19 . Memory (MB): peak = 1544.656 ; gain = 611.391 ; free physical = 2352 ; free virtual = 12860
+Finished Cross Boundary and Area Optimization : Time (s): cpu = 00:00:24 ; elapsed = 00:00:24 . Memory (MB): peak = 1544.656 ; gain = 611.391 ; free physical = 2313 ; free virtual = 12821
+Finished Applying XDC Timing Constraints : Time (s): cpu = 00:00:29 ; elapsed = 00:00:29 . Memory (MB): peak = 1544.656 ; gain = 611.391 ; free physical = 2291 ; free virtual = 12799
+Finished Timing Optimization : Time (s): cpu = 00:00:31 ; elapsed = 00:00:31 . Memory (MB): peak = 1551.070 ; gain = 617.805 ; free physical = 2223 ; free virtual = 12731
+Finished Technology Mapping : Time (s): cpu = 00:00:32 ; elapsed = 00:00:32 . Memory (MB): peak = 1567.086 ; gain = 633.820 ; free physical = 2211 ; free virtual = 12719
+Finished IO Insertion : Time (s): cpu = 00:00:32 ; elapsed = 00:00:32 . Memory (MB): peak = 1567.086 ; gain = 633.820 ; free physical = 2211 ; free virtual = 12719
+Finished Renaming Generated Instances : Time (s): cpu = 00:00:32 ; elapsed = 00:00:32 . Memory (MB): peak = 1567.086 ; gain = 633.820 ; free physical = 2211 ; free virtual = 12719
+Finished Rebuilding User Hierarchy : Time (s): cpu = 00:00:32 ; elapsed = 00:00:32 . Memory (MB): peak = 1567.086 ; gain = 633.820 ; free physical = 2211 ; free virtual = 12719
+Finished Renaming Generated Ports : Time (s): cpu = 00:00:32 ; elapsed = 00:00:32 . Memory (MB): peak = 1567.086 ; gain = 633.820 ; free physical = 2211 ; free virtual = 12719
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:32 ; elapsed = 00:00:32 . Memory (MB): peak = 1567.086 ; gain = 633.820 ; free physical = 2211 ; free virtual = 12719
+Finished Renaming Generated Nets : Time (s): cpu = 00:00:32 ; elapsed = 00:00:32 . Memory (MB): peak = 1567.086 ; gain = 633.820 ; free physical = 2211 ; free virtual = 12719
+
+Report Cell Usage: 
++------+--------+------+
+|      |Cell    |Count |
++------+--------+------+
+|1     |CARRY4  |    32|
+|2     |LUT1    |    48|
+|3     |LUT2    |     9|
+|4     |LUT3    |   143|
+|5     |LUT4    |    87|
+|6     |LUT5    |    96|
+|7     |LUT6    |   307|
+|8     |SRLC32E |     2|
+|9     |FDRE    |   793|
+|10    |FDSE    |     6|
++------+--------+------+
+Finished Writing Synthesis Report : Time (s): cpu = 00:00:32 ; elapsed = 00:00:32 . Memory (MB): peak = 1567.086 ; gain = 633.820 ; free physical = 2211 ; free virtual = 12719
+synth_design: Time (s): cpu = 00:00:31 ; elapsed = 00:00:31 . Memory (MB): peak = 1599.102 ; gain = 591.332 ; free physical = 2210 ; free virtual = 12718

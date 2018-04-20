@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:19 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Fri Apr 20 15:49:40 2018
+# Process ID: 27506
+# Current directory: /csehome/sdu6342/hsd/lab7_0420/lab07/lab07.runs/design_1_axi_bram_ctrl_0_0_synth_1
+# Command line: vivado -log design_1_axi_bram_ctrl_0_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source design_1_axi_bram_ctrl_0_0.tcl
+# Log file: /csehome/sdu6342/hsd/lab7_0420/lab07/lab07.runs/design_1_axi_bram_ctrl_0_0_synth_1/design_1_axi_bram_ctrl_0_0.vds
+# Journal file: /csehome/sdu6342/hsd/lab7_0420/lab07/lab07.runs/design_1_axi_bram_ctrl_0_0_synth_1/vivado.jou
+#-----------------------------------------------------------
+source design_1_axi_bram_ctrl_0_0.tcl -notrace
