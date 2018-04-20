@@ -1,0 +1,419 @@
+Vivado Simulator 2016.4
+Time resolution is 1 ps
+Test 0 start
+Issueing reset signal to controller...(5 cycles)
+Start command issued to PE controller
+Loading din_mem[         0] at rddata
+rddata was written at peram[         0]
+Loading din_mem[         1] at rddata
+rddata was written at peram[         1]
+Loading din_mem[         2] at rddata
+rddata was written at peram[         2]
+Loading din_mem[         3] at rddata
+rddata was written at peram[         3]
+Loading din_mem[         4] at rddata
+rddata was written at peram[         4]
+Loading din_mem[         5] at rddata
+rddata was written at peram[         5]
+Loading din_mem[         6] at rddata
+rddata was written at peram[         6]
+Loading din_mem[         7] at rddata
+rddata was written at peram[         7]
+Loading din_mem[         8] at rddata
+rddata was written at peram[         8]
+Loading din_mem[         9] at rddata
+rddata was written at peram[         9]
+Loading din_mem[        10] at rddata
+rddata was written at peram[        10]
+Loading din_mem[        11] at rddata
+rddata was written at peram[        11]
+Loading din_mem[        12] at rddata
+rddata was written at peram[        12]
+Loading din_mem[        13] at rddata
+rddata was written at peram[        13]
+Loading din_mem[        14] at rddata
+rddata was written at peram[        14]
+Loading din_mem[        15] at rddata
+rddata was written at peram[        15]
+Loading din_mem[        16] at rddata
+rddata was written at mem[         0]
+Loading din_mem[        17] at rddata
+rddata was written at mem[         1]
+Loading din_mem[        18] at rddata
+rddata was written at mem[         2]
+Loading din_mem[        19] at rddata
+rddata was written at mem[         3]
+Loading din_mem[        20] at rddata
+rddata was written at mem[         4]
+Loading din_mem[        21] at rddata
+rddata was written at mem[         5]
+Loading din_mem[        22] at rddata
+rddata was written at mem[         6]
+Loading din_mem[        23] at rddata
+rddata was written at mem[         7]
+Loading din_mem[        24] at rddata
+rddata was written at mem[         8]
+Loading din_mem[        25] at rddata
+rddata was written at mem[         9]
+Loading din_mem[        26] at rddata
+rddata was written at mem[        10]
+Loading din_mem[        27] at rddata
+rddata was written at mem[        11]
+Loading din_mem[        28] at rddata
+rddata was written at mem[        12]
+Loading din_mem[        29] at rddata
+rddata was written at mem[        13]
+Loading din_mem[        30] at rddata
+rddata was written at mem[        14]
+Loading din_mem[        31] at rddata
+rddata was written at mem[        15]
+Test 0 start
+Issueing reset signal to controller...(5 cycles)
+Start command issued to PE controller
+Loading din_mem[         0] at rddata
+rddata was written at peram[         0]
+Loading din_mem[         1] at rddata
+rddata was written at peram[         1]
+Loading din_mem[         2] at rddata
+rddata was written at peram[         2]
+Loading din_mem[         3] at rddata
+rddata was written at peram[         3]
+Loading din_mem[         4] at rddata
+rddata was written at peram[         4]
+Loading din_mem[         5] at rddata
+rddata was written at peram[         5]
+Loading din_mem[         6] at rddata
+rddata was written at peram[         6]
+Loading din_mem[         7] at rddata
+rddata was written at peram[         7]
+Loading din_mem[         8] at rddata
+rddata was written at peram[         8]
+Loading din_mem[         9] at rddata
+rddata was written at peram[         9]
+Loading din_mem[        10] at rddata
+rddata was written at peram[        10]
+Loading din_mem[        11] at rddata
+rddata was written at peram[        11]
+Loading din_mem[        12] at rddata
+rddata was written at peram[        12]
+Loading din_mem[        13] at rddata
+rddata was written at peram[        13]
+Loading din_mem[        14] at rddata
+rddata was written at peram[        14]
+Loading din_mem[        15] at rddata
+rddata was written at peram[        15]
+Loading din_mem[        16] at rddata
+rddata was written at mem[         0]
+Loading din_mem[        17] at rddata
+rddata was written at mem[         1]
+Loading din_mem[        18] at rddata
+rddata was written at mem[         2]
+Loading din_mem[        19] at rddata
+rddata was written at mem[         3]
+Loading din_mem[        20] at rddata
+rddata was written at mem[         4]
+Loading din_mem[        21] at rddata
+rddata was written at mem[         5]
+Loading din_mem[        22] at rddata
+rddata was written at mem[         6]
+Loading din_mem[        23] at rddata
+rddata was written at mem[         7]
+Loading din_mem[        24] at rddata
+rddata was written at mem[         8]
+Loading din_mem[        25] at rddata
+rddata was written at mem[         9]
+Loading din_mem[        26] at rddata
+rddata was written at mem[        10]
+Loading din_mem[        27] at rddata
+rddata was written at mem[        11]
+Loading din_mem[        28] at rddata
+rddata was written at mem[        12]
+Loading din_mem[        29] at rddata
+rddata was written at mem[        13]
+Loading din_mem[        30] at rddata
+rddata was written at mem[        14]
+Loading din_mem[        31] at rddata
+rddata was written at mem[        15]
+Test 0's value comparison test passed
+Test 0's output display time check passed
+Test 1 start
+Issueing reset signal to controller...(5 cycles)
+Start command issued to PE controller
+Loading din_mem[         0] at rddata
+rddata was written at peram[         0]
+Loading din_mem[         1] at rddata
+rddata was written at peram[         1]
+Loading din_mem[         2] at rddata
+rddata was written at peram[         2]
+Loading din_mem[         3] at rddata
+rddata was written at peram[         3]
+Loading din_mem[         4] at rddata
+rddata was written at peram[         4]
+Loading din_mem[         5] at rddata
+rddata was written at peram[         5]
+Loading din_mem[         6] at rddata
+rddata was written at peram[         6]
+Loading din_mem[         7] at rddata
+rddata was written at peram[         7]
+Loading din_mem[         8] at rddata
+rddata was written at peram[         8]
+Loading din_mem[         9] at rddata
+rddata was written at peram[         9]
+Loading din_mem[        10] at rddata
+rddata was written at peram[        10]
+Loading din_mem[        11] at rddata
+rddata was written at peram[        11]
+Loading din_mem[        12] at rddata
+rddata was written at peram[        12]
+Loading din_mem[        13] at rddata
+rddata was written at peram[        13]
+Loading din_mem[        14] at rddata
+rddata was written at peram[        14]
+Loading din_mem[        15] at rddata
+rddata was written at peram[        15]
+Loading din_mem[        16] at rddata
+rddata was written at mem[         0]
+Loading din_mem[        17] at rddata
+rddata was written at mem[         1]
+Loading din_mem[        18] at rddata
+rddata was written at mem[         2]
+Loading din_mem[        19] at rddata
+rddata was written at mem[         3]
+Loading din_mem[        20] at rddata
+rddata was written at mem[         4]
+Loading din_mem[        21] at rddata
+rddata was written at mem[         5]
+Loading din_mem[        22] at rddata
+rddata was written at mem[         6]
+Loading din_mem[        23] at rddata
+rddata was written at mem[         7]
+Loading din_mem[        24] at rddata
+rddata was written at mem[         8]
+Loading din_mem[        25] at rddata
+rddata was written at mem[         9]
+Loading din_mem[        26] at rddata
+rddata was written at mem[        10]
+Loading din_mem[        27] at rddata
+rddata was written at mem[        11]
+Loading din_mem[        28] at rddata
+rddata was written at mem[        12]
+Loading din_mem[        29] at rddata
+rddata was written at mem[        13]
+Loading din_mem[        30] at rddata
+rddata was written at mem[        14]
+Loading din_mem[        31] at rddata
+rddata was written at mem[        15]
+Test 1's value comparison test passed
+Test 1's output display time check passed
+Test 2 start
+Issueing reset signal to controller...(5 cycles)
+Start command issued to PE controller
+Loading din_mem[         0] at rddata
+rddata was written at peram[         0]
+Loading din_mem[         1] at rddata
+rddata was written at peram[         1]
+Loading din_mem[         2] at rddata
+rddata was written at peram[         2]
+Loading din_mem[         3] at rddata
+rddata was written at peram[         3]
+Loading din_mem[         4] at rddata
+rddata was written at peram[         4]
+Loading din_mem[         5] at rddata
+rddata was written at peram[         5]
+Loading din_mem[         6] at rddata
+rddata was written at peram[         6]
+Loading din_mem[         7] at rddata
+rddata was written at peram[         7]
+Loading din_mem[         8] at rddata
+rddata was written at peram[         8]
+Loading din_mem[         9] at rddata
+rddata was written at peram[         9]
+Loading din_mem[        10] at rddata
+rddata was written at peram[        10]
+Loading din_mem[        11] at rddata
+rddata was written at peram[        11]
+Loading din_mem[        12] at rddata
+rddata was written at peram[        12]
+Loading din_mem[        13] at rddata
+rddata was written at peram[        13]
+Loading din_mem[        14] at rddata
+rddata was written at peram[        14]
+Loading din_mem[        15] at rddata
+rddata was written at peram[        15]
+Loading din_mem[        16] at rddata
+rddata was written at mem[         0]
+Loading din_mem[        17] at rddata
+rddata was written at mem[         1]
+Loading din_mem[        18] at rddata
+rddata was written at mem[         2]
+Loading din_mem[        19] at rddata
+rddata was written at mem[         3]
+Loading din_mem[        20] at rddata
+rddata was written at mem[         4]
+Loading din_mem[        21] at rddata
+rddata was written at mem[         5]
+Loading din_mem[        22] at rddata
+rddata was written at mem[         6]
+Loading din_mem[        23] at rddata
+rddata was written at mem[         7]
+Loading din_mem[        24] at rddata
+rddata was written at mem[         8]
+Loading din_mem[        25] at rddata
+rddata was written at mem[         9]
+Loading din_mem[        26] at rddata
+rddata was written at mem[        10]
+Loading din_mem[        27] at rddata
+rddata was written at mem[        11]
+Loading din_mem[        28] at rddata
+rddata was written at mem[        12]
+Loading din_mem[        29] at rddata
+rddata was written at mem[        13]
+Loading din_mem[        30] at rddata
+rddata was written at mem[        14]
+Loading din_mem[        31] at rddata
+rddata was written at mem[        15]
+Test 2's value comparison test passed
+Test 2's output display time check passed
+Test 3 start
+Issueing reset signal to controller...(5 cycles)
+Start command issued to PE controller
+Loading din_mem[         0] at rddata
+rddata was written at peram[         0]
+Loading din_mem[         1] at rddata
+rddata was written at peram[         1]
+Loading din_mem[         2] at rddata
+rddata was written at peram[         2]
+Loading din_mem[         3] at rddata
+rddata was written at peram[         3]
+Loading din_mem[         4] at rddata
+rddata was written at peram[         4]
+Loading din_mem[         5] at rddata
+rddata was written at peram[         5]
+Loading din_mem[         6] at rddata
+rddata was written at peram[         6]
+Loading din_mem[         7] at rddata
+rddata was written at peram[         7]
+Loading din_mem[         8] at rddata
+rddata was written at peram[         8]
+Loading din_mem[         9] at rddata
+rddata was written at peram[         9]
+Loading din_mem[        10] at rddata
+rddata was written at peram[        10]
+Loading din_mem[        11] at rddata
+rddata was written at peram[        11]
+Loading din_mem[        12] at rddata
+rddata was written at peram[        12]
+Loading din_mem[        13] at rddata
+rddata was written at peram[        13]
+Loading din_mem[        14] at rddata
+rddata was written at peram[        14]
+Loading din_mem[        15] at rddata
+rddata was written at peram[        15]
+Loading din_mem[        16] at rddata
+rddata was written at mem[         0]
+Loading din_mem[        17] at rddata
+rddata was written at mem[         1]
+Loading din_mem[        18] at rddata
+rddata was written at mem[         2]
+Loading din_mem[        19] at rddata
+rddata was written at mem[         3]
+Loading din_mem[        20] at rddata
+rddata was written at mem[         4]
+Loading din_mem[        21] at rddata
+rddata was written at mem[         5]
+Loading din_mem[        22] at rddata
+rddata was written at mem[         6]
+Loading din_mem[        23] at rddata
+rddata was written at mem[         7]
+Loading din_mem[        24] at rddata
+rddata was written at mem[         8]
+Loading din_mem[        25] at rddata
+rddata was written at mem[         9]
+Loading din_mem[        26] at rddata
+rddata was written at mem[        10]
+Loading din_mem[        27] at rddata
+rddata was written at mem[        11]
+Loading din_mem[        28] at rddata
+rddata was written at mem[        12]
+Loading din_mem[        29] at rddata
+rddata was written at mem[        13]
+Loading din_mem[        30] at rddata
+rddata was written at mem[        14]
+Loading din_mem[        31] at rddata
+rddata was written at mem[        15]
+Test 3's value comparison test passed
+Test 3's output display time check passed
+Test 4 start
+Issueing reset signal to controller...(5 cycles)
+Start command issued to PE controller
+Loading din_mem[         0] at rddata
+rddata was written at peram[         0]
+Loading din_mem[         1] at rddata
+rddata was written at peram[         1]
+Loading din_mem[         2] at rddata
+rddata was written at peram[         2]
+Loading din_mem[         3] at rddata
+rddata was written at peram[         3]
+Loading din_mem[         4] at rddata
+rddata was written at peram[         4]
+Loading din_mem[         5] at rddata
+rddata was written at peram[         5]
+Loading din_mem[         6] at rddata
+rddata was written at peram[         6]
+Loading din_mem[         7] at rddata
+rddata was written at peram[         7]
+Loading din_mem[         8] at rddata
+rddata was written at peram[         8]
+Loading din_mem[         9] at rddata
+rddata was written at peram[         9]
+Loading din_mem[        10] at rddata
+rddata was written at peram[        10]
+Loading din_mem[        11] at rddata
+rddata was written at peram[        11]
+Loading din_mem[        12] at rddata
+rddata was written at peram[        12]
+Loading din_mem[        13] at rddata
+rddata was written at peram[        13]
+Loading din_mem[        14] at rddata
+rddata was written at peram[        14]
+Loading din_mem[        15] at rddata
+rddata was written at peram[        15]
+Loading din_mem[        16] at rddata
+rddata was written at mem[         0]
+Loading din_mem[        17] at rddata
+rddata was written at mem[         1]
+Loading din_mem[        18] at rddata
+rddata was written at mem[         2]
+Loading din_mem[        19] at rddata
+rddata was written at mem[         3]
+Loading din_mem[        20] at rddata
+rddata was written at mem[         4]
+Loading din_mem[        21] at rddata
+rddata was written at mem[         5]
+Loading din_mem[        22] at rddata
+rddata was written at mem[         6]
+Loading din_mem[        23] at rddata
+rddata was written at mem[         7]
+Loading din_mem[        24] at rddata
+rddata was written at mem[         8]
+Loading din_mem[        25] at rddata
+rddata was written at mem[         9]
+Loading din_mem[        26] at rddata
+rddata was written at mem[        10]
+Loading din_mem[        27] at rddata
+rddata was written at mem[        11]
+Loading din_mem[        28] at rddata
+rddata was written at mem[        12]
+Loading din_mem[        29] at rddata
+rddata was written at mem[        13]
+Loading din_mem[        30] at rddata
+rddata was written at mem[        14]
+Loading din_mem[        31] at rddata
+rddata was written at mem[        15]
+Test 4's value comparison test passed
+Test 4's output display time check passed
+Test finished. Score :        100 /         100
+$finish called at time : 18395 ns : File "/csehome/sdu6342/Downloads/Lab4/sources/pe_controller_tb.v" Line 146
+Test 5 start
+Issueing reset signal to controller...(5 cycles)
+$finish called at time : 18405 ns : File "/csehome/sdu6342/Downloads/Lab4/sources/pe_controller_tb.v" Line 51

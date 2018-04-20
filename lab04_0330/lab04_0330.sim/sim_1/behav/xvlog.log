@@ -1,0 +1,9 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/csehome/sdu6342/Downloads/Lab4/sources/my_pe.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module my_pe
+INFO: [VRFC 10-2263] Analyzing Verilog file "/csehome/sdu6342/Downloads/Lab4/sources/pe_controller.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pe_controller
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [/csehome/sdu6342/Downloads/Lab4/sources/pe_controller.v:86]
+INFO: [VRFC 10-2263] Analyzing Verilog file "/csehome/sdu6342/Downloads/Lab4/sources/pe_controller_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pe_controller_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "/csehome/sdu6342/lab04_0330/lab04_0330.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

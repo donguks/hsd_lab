@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:19 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Fri Apr  6 16:33:48 2018
+# Process ID: 15071
+# Current directory: /csehome/sdu6342/hsd/lab5_0406/lab5_0406.runs/impl_1
+# Command line: vivado -log sw2led.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source sw2led.tcl -notrace
+# Log file: /csehome/sdu6342/hsd/lab5_0406/lab5_0406.runs/impl_1/sw2led.vdi
+# Journal file: /csehome/sdu6342/hsd/lab5_0406/lab5_0406.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source sw2led.tcl -notrace

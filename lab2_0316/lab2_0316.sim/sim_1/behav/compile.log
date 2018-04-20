@@ -1,0 +1,8 @@
+awk: symbol lookup error: awk: undefined symbol: mpfr_z_sub
+INFO: [VRFC 10-2263] Analyzing Verilog file "/csehome/sdu6342/lab2_0316/lab2_0316.srcs/sim_1/new/tb_floating_MAC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_floating_MAC
+INFO: [VRFC 10-2263] Analyzing Verilog file "/csehome/sdu6342/lab2_0316/lab2_0316.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
+awk: symbol lookup error: awk: undefined symbol: mpfr_z_sub
+INFO: [VRFC 10-163] Analyzing VHDL file "/csehome/sdu6342/lab2_0316/lab2_0316.srcs/sources_1/ip/floating_point_MAC/sim/floating_point_MAC.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity floating_point_MAC

@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_floating_MAC_behav/xsimk -simmode gui -wdb tb_floating_MAC_behav.wdb -simrunnum 0 -socket 38886
+Design successfully loaded
+Design Loading Memory Usage: 53676 KB (Peak: 55680 KB)
+Design Loading CPU Usage: 10 ms
+Simulation completed
+Simulation Memory Usage: 133576 KB (Peak: 200948 KB)
+Simulation CPU Usage: 30 ms

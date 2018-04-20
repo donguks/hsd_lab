@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  "../../../../Downloads/Lab4/sources/my_pe.v"
+verilog xil_defaultlib  "../../../../Downloads/Lab4/sources/pe_controller.v"
+verilog xil_defaultlib  "../../../../Downloads/Lab4/sources/pe_controller_tb.v"
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
